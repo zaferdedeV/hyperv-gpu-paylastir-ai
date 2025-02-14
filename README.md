@@ -1,6 +1,6 @@
 # Hyper-V ile Sanal Makinelerde GPU Paylaşımı ve Yapay Zeka Projelerinde Kullanımı
 
-Merhaba! Bu rehberde, Hyper-V kullanarak sanal makinelerde GPU paylaşımını nasıl gerçekleştireceğinizi ve bu yapılandırmanın yapay zeka projeleri için nasıl kullanılabileceğini adım adım anlatacağım. Umarım işinize yarar! 😊
+Merhaba! Bu rehberde, Hyper-V kullanarak sanal makinelerde GPU paylaşımını nasıl gerçekleştireceğinizi ve bu yapılandırmanın yapay zeka projeleri için nasıl kullanılabileceğini adım adım anlatacağım.
 
 ---
 
@@ -100,4 +100,3 @@ Merhaba! Bu rehberde, Hyper-V kullanarak sanal makinelerde GPU paylaşımını n
 
 Bu yapılandırma, yapay zeka projeleri için ideal bir altyapı sunar. GPU paylaşımı sayesinde birden fazla sanal makinede derin öğrenme, model eğitimi ve test işlemlerini verimli şekilde gerçekleştirebilirsiniz.
 
-**Sorularınız olursa yorum bırakmayı unutmayın!** 😊
